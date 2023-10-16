@@ -7,6 +7,7 @@ import java.util.Map;
 
 public class Solution {
     public static void main(String[] args) {
+        а
         Map<Integer , List<Edge>> graph = new HashMap<>();
         Map<Integer , List<Integer>> connectivityComponents = new HashMap<>(); // здесь будут храниться найденные компоненты связности
         addEdge(graph , 0 , 1 , 20);
