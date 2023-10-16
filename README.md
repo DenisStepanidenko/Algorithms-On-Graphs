@@ -1,7 +1,7 @@
 # ***Описание репозитория*** :book:
 Тут будут рассмотрены основные алгоритмы на *графах*
 <br>
-Язык программирова[ProblemE](..%2FProblemE)ния - ***Java*** :sparkles:
+Язык программирования - ***Java*** :sparkles:
 ___
 # ***Алгоритмы*** :computer:
 * [DFS (Depth-first search)](https://github.com/DenisStepanidenko/Algorithms-On-Graphs/tree/master/src/DFSRecursive) :spades:
